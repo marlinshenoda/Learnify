@@ -20,3 +20,4 @@ Upload Assignments.
 - Login -
 (Admin/Teacher) Login: admin@lms.se
 Password: LexiconNET20!
+<img width="732" height="911" alt="image" src="https://github.com/user-attachments/assets/0724d4c2-5f9e-4792-9b02-92820cc06746" />
