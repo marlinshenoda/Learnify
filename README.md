@@ -1,4 +1,4 @@
-# ProjektLMS 
+# Learnify 
 A project that we made through Lexicon .NET course over a period of three weeks. The project replicates a learning site for both teachers and students to interact with.
 
 - Data Seeded -
